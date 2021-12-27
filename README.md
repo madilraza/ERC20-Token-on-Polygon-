@@ -16,7 +16,7 @@ On initial launch, Remix will already have a default workspace set up. This work
 
 
 
-Choose from these Token types for your needs.
+# Choose from these Token types for your needs.
 What are your requirements?
 
 Detailed
