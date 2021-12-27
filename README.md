@@ -1,6 +1,8 @@
 # ERC20-Token-on-Polygon-
 Create your ERC20 Standard Token  Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token on Ethereum, Polygon, Binance Smart Chain Networks.  No login. No setup. No coding required.
 
+<p align="left"> <img src="https://pbs.twimg.com/media/FHnzKi8X0AM6cFH?format=jpg&name=small" alt="madilraza" /> </p>
+
 
 Choose from these Token types for your needs.
 What are your requirements?
